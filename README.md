@@ -12,6 +12,6 @@ Predict a dairy cow’s total 305-day milk yield (target_milk_305_kg) at calving
 Investigate which factors have the greatest influence on dairy cow productivity. 
 ### Goal 3:
 Identify the regression model that provides the most accurate predictions of dairy cow milk production.
-Links:
+### Links:
 The data is private and is the property of Eesti Põllumajandusloomade Jõudluskontrolli AS.
 
